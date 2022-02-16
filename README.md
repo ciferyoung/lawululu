@@ -1,0 +1,2 @@
+# lawululu
+nuxt vue ssr
